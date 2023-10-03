@@ -4,7 +4,6 @@ import com.github.javaparser.ast.CompilationUnit;
 import com.github.javaparser.ast.body.MethodDeclaration;
 import com.github.javaparser.ast.expr.MethodCallExpr;
 import org.junit.jupiter.api.Test;
-import school.mjc.stage0.module3.task1.PrintSentenceApp;
 import school.mjc.test.BaseIOTest;
 import school.mjc.test.JavaFileSource;
 

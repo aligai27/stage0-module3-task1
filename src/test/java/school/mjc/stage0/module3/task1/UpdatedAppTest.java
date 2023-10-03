@@ -1,7 +1,6 @@
 package school.mjc.stage0.module3.task1;
 
 import org.junit.jupiter.api.Test;
-import school.mjc.stage0.module3.task1.UpdatedApp;
 import school.mjc.test.BaseIOTest;
 import school.mjc.test.JavaFileSource;
 
